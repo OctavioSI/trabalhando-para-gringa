@@ -58,7 +58,7 @@ No meu caso, como eu tenho o [Homebrew](https://brew.sh) instalado, instalar o p
 brew install buildpacks/tap/pack
 ```
 
-![Foto da tela com a instalação do Homebrew](/home/octavio/.config/marktext/images/2023-04-07-14-46-45-image.png)
+![Foto da tela com a instalação do Homebrew](2023-04-07-14-46-45-image.png)
 
 (Se você não tem o Homebrew, eu fiz uma thread faz um tempo atrás sobre o assunto aqui: https://twitter.com/octavioietsugu/status/1511777362396037133?s=20
 
@@ -68,12 +68,8 @@ Depois que o pack cli for instalado, você pode checar que está tudo no jeito c
 pack --version
 ```
 
-![Foto com o comando de versão do pack cli](/home/octavio/.config/marktext/images/2023-04-07-14-52-42-image.png)
+![Foto com o comando de versão do pack cli](2023-04-07-14-52-42-image.png)
 
 Com a instalação desses pacotes, temos o básico do nosso setup para começar a trabalhar: 😊
 
-![](/home/octavio/.config/marktext/images/2023-04-07-15-07-07-image.png)
-
-
-
-
+![Foto com versões dos pacotes instalados](2023-04-07-15-07-07-image.png)
